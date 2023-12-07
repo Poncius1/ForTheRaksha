@@ -4,7 +4,7 @@ Immerse yourself in a magical and mysterious world where magic and adventure con
 
 ## Download
 For The Raksha is an adventure game developed over three months by 5 people. This project was created with the objective of being used as a final project for the ITIAD degree at UVM Toluca.
-- [You can test the game on the following page ](https://github.com/matiassingers/awesome-readme)
+- [You can test the game on the following page ](https://poncius35.itch.io/fortheraksha)
 ## Screenshots
 ![App Screenshot](https://img.itch.zone/aW1hZ2UvMjM5Mzk5Mi8xNDE3NzExOC5wbmc=/original/fjwdw%2B.png)
 ![App Screenshot](https://img.itch.zone/aW1hZ2UvMjM5Mzk5Mi8xNDE3NzExNy5wbmc=/original/SSYK5L.png)
