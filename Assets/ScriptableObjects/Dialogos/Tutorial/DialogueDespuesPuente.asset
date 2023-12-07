@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e77c5b5ce44724a9518c4ca67416ad, type: 3}
+  m_Name: DialogueDespuesPuente
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Great, you managed to fix the bridge!
+
+    Now that you''ve remembered a bit
+    of your magic, I want you to take the next step.'
+  - Change your magic type with the -Q- key, aim by holding the right-click, and
+    shoot with your left-click.
+  - 'And remember that you have your magic cure to recover life with the -F- key.
+
+    Are
+    you ready?'
+  responses:
+  - responseText: I will try
+    dialogueObject: {fileID: 11400000, guid: ee7542ef997fc49499b83bd3f7765819, type: 2}
+  - responseText: I don't think so
+    dialogueObject: {fileID: 11400000, guid: c30646c23b1f9984499e5fd9f8ef69e8, type: 2}

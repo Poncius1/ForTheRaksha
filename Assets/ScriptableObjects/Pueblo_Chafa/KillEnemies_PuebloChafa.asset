@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e35a9ec79ea3bb4f8d4ca9b14cca277, type: 3}
+  m_Name: KillEnemies_PuebloChafa
+  m_EditorClassIdentifier: 
+  missionName: Kill the Kanabo enemies
+  description: Free the Kanabo Village from all the enemies
+  isCompleted: 0
+  requiredKills: 20
+  currentKills: 0

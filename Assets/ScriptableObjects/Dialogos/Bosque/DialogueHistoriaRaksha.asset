@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e77c5b5ce44724a9518c4ca67416ad, type: 3}
+  m_Name: DialogueHistoriaRaksha
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Once, this region was a void. Then, a powerful mage created the Raksha, giving
+    life to our villages with their essence.
+  - Each color of Raksha represents the minerals of each village. The mage's magic
+    lingers, reminding us of the connection between sacrifice, creation, and diversity
+    in our homes.
+  - Interesting, isn't it?
+  responses:
+  - responseText: Lose your time for this?
+    dialogueObject: {fileID: 11400000, guid: d78057e589b90ed409a726f05e31d636, type: 2}

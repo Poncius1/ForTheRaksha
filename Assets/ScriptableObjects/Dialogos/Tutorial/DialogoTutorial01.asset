@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e77c5b5ce44724a9518c4ca67416ad, type: 3}
+  m_Name: DialogoTutorial01
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Hello Ruffini, it's been a while since I last saw you. Do you remember me?
+  - 'I''m your friend, Piberto. I think someone has a headache, and that''s preventing
+    them from remembering things.
+
+'
+  - Well... to start, remember that you can use your levitation magic. There are
+    many object in your way that can be use as a weapon, just remeber to look for
+    them and take advantage.
+  - What do you think about using it to lift that cauldron and put it back in its
+    place?
+  responses:
+  - responseText: Let's give it a try!
+    dialogueObject: {fileID: 11400000, guid: 9cb15248c0d6cb345b6d6dc67129e3ea, type: 2}
+  - responseText: Mmm Nope
+    dialogueObject: {fileID: 11400000, guid: c30646c23b1f9984499e5fd9f8ef69e8, type: 2}

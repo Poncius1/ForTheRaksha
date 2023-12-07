@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e77c5b5ce44724a9518c4ca67416ad, type: 3}
+  m_Name: DialogueBosque01
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'So long without seeing you, Ruffini.
+
+    Now that you''ve freed the first village,
+    do you want to learn more about the Raksha?'
+  responses:
+  - responseText: Sure, I want to know the context of all this
+    dialogueObject: {fileID: 11400000, guid: 127bcebafc4582b4a907cb67e02e1062, type: 2}
+  - responseText: Too much talk, Piberto. Let's continue with the adventure.
+    dialogueObject: {fileID: 11400000, guid: 857f91392f0f5a845bb788934e31fd90, type: 2}
